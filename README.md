@@ -9,9 +9,9 @@ As stated in the Program Module: "This data comes to us from the UCI Machine Lea
 
 **Scope:** Out of 5 different types of Coupons, my analysis will focus on Bar & more expensive restaurants ($20–$50) Coupons.
 
-**Link to the Notebook:** 
+**Link to the Notebook:** https://github.com/Gunjan2029/ML_App1/blob/main/ML_Coupons.ipynb
 
-**Link to the Data:**
+**Link to the Data:** https://github.com/Gunjan2029/ML_App1/tree/main/Data
 
 **Summary of Findings**
 **Bar Coupon Summary:**
