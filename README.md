@@ -1,5 +1,5 @@
 
-Will the Customer Accept the Coupon?
+Will a Customer Accept the Coupon?
 
 **Goal**
 The goal of this project is to use visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
